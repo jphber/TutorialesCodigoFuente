@@ -1,12 +1,13 @@
-TutorialesCodigoFuente
+C++ Tutorials by applikdos
 ======================
 
 Different topics and examples using C++:
 
 
-- Sorting
+- Sorting Algorithms
 - Arrays
-- FIFO (quenue)
+- FIFO (queue)
 - LIFO (stack)
-- Conditionals 
+- Conditionals
+- Loops 
  
