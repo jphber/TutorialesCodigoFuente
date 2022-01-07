@@ -1,4 +1,12 @@
 TutorialesCodigoFuente
 ======================
 
-Código fuente de programas en C++
+Different topics and examples using C++:
+
+
+- Sorting
+- Arrays
+- FIFO (quenue)
+- LIFO (stack)
+- Conditionals 
+ 
